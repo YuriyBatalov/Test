@@ -1,0 +1,98 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Contacts :: Trianon Studio</title>
+    <meta name="robots" content="all">
+    <meta name="Author" content="Trianon Studio">
+  <meta name="KeyWords" content="historical dance, courses, training, festivals, balls dance class">
+    <meta name="Description" content="Historic dance school Trianon, Moscow">
+      <meta http-equiv="Pragma" content="no-cache">
+    <link rel="stylesheet" type="text/css" href="../style/main.css">
+</head>
+<body>
+    <table class="glob">
+        <tr><td height="158">
+            <!-- header -->
+<table class="logo">
+    <tr><td class="lr1 lc1" background="../img/bg_left.jpg"><a href="default.htm"><img src="../img/logo0101.gif" width="271" height="102" alt="Trianon Studio" /></a></td>
+      <td class="ar lr1 lc2"><img src="../img/logo0103.gif" /></td>
+    <td class="ar lr1 lc3"><img src="../img/logo0104.jpg" alt="" width="200" height="102"></td></tr>
+  <tr><td class="lr2 lc1 al" style="background: url('../img/bg_left.jpg');"><img src="../img/logo0201.gif" width="271" height="34" alt=""></td>
+    <td class="lr2 lc2 ar" style="background: url('../img/logo0202.gif') no-repeat;"><img src="../img/logo0203.gif" /></td>
+    <td class="lr2 lc3 al" background="../img/logo0204.jpg"></td></tr>
+    <tr><td class="lr3 lc1 al" background="../img/bg_left.jpg"><img src="../img/logo0301.gif" alt=""></td>
+    <td class="lr3 lc2 al" background="../img/bg_logo3.gif"><img src="../img/logo0302.gif" alt=""></td>
+      <td class="lr3 lc3 al lfs" background="../img/logo0304.jpg"><a href="ru/contacts"><img src="../img/flag_russian.gif" alt="Russian" title="Russian" width="16" height="11" border="0"></a>&nbsp;&nbsp;<img src="../img/flag_english.gif" alt="English" title="English" width="16" height="11" border="0"></td></tr>
+</table>
+
+        </td></tr>
+        <!-- main -->
+        <tr><td>
+            <table class="main">
+                <tr><td class="left-col">
+                    <!-- menu -->
+<table class="menu">
+<tr><td><a href="en/default.htm" title="Main" class="menpd" >Main</a></td></tr>
+
+<tr><td><a href="studio/default.htm" title="About us" class="menpd" >About us</a></td></tr>
+
+<tr><td><a href="dancing-school" title="Dance School" class="menpd" >Dance School</a></td></tr>
+
+<tr><td><a href="events" title="Events" class="menpd" >Events</a></td></tr>
+
+<tr><td><a href="gallery" title="Gallery" class="menpd" >Gallery</a></td></tr>
+
+<tr><td><span class="menpd" style="color: #6C3702;">Contacts</span></td></tr>
+
+
+</table>
+<!-- menu end -->
+                    <!-- counters -->
+<table class="cnt">
+    <tr><td>
+      <!--LiveInternet counter--><script type="text/javascript">document.write("<a href='../../www.liveinternet.ru/click' target=_blank><img src='../../counter.yadro.ru/hit@t44.17;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=31 height=31 alt='' title='LiveInternet'></a>")</script><!--/LiveInternet-->
+    </td></tr> 
+</table>
+<!-- counters end -->
+                </td><td class="left-sep">
+                    <img src="../img/bg_menu3.gif" alt="">
+                </td><td class="mid-col">
+                    <!-- page body -->
+ 
+                    <div class="title">Contacts</div>
+                    <div class="content">
+                            <p class="nou">The director of the studio - Tarasova Elana<br />
+Mobile: 8-910-427-53-44<br />
+e-mail: <a href="mailto:milady.elana@gmail.com">milady.elana@gmail.com</a>, <a href="mailto:info@trianon-studio.ru">info@trianon-studio.ru</a><br />
+ICQ: 230961356</p>
+<p>
+Makarova Ekaterina
+<br />Mobile: +79067000208
+<br />
+e-mail:<a href="mailto:e-mail:honestgirl@mail.ru">honestgirl@mail.ru</a>
+<br />
+ICQ: 383400815
+</p>
+<p>&nbsp;</p>
+<p class="nou">Ushkevich Vera
+<br />Mobile: +79265811214
+<br />
+e-mail:<a href="mailto:e-mail:molly@bk.ru">molly@bk.ru</a>
+</p>
+<p class="nou">&nbsp;</p>
+                    </div>
+
+                </td><td class="right-col">
+                        <img src="../img/0.gif" alt="" width="200">
+                        <!-- как бы поаккуратнее растянуть эту колонку? -->
+                </td></tr>
+            </table>
+        </td></tr>
+        <tr><td height="20"><table class="footer"><tr>
+    <td class="fc1"><img src="../img/bg_menu_down.gif" alt=""></td>
+    <td class="fc2">&nbsp;</td>
+    <td class="fc3"><img src="../img/bg_footer.jpg" alt="" onClick="window.open('../../https@www.google.com/a/trianon-studio.ru/default.htm','_blank');"></td>
+    <td class="fc4"><nobr class="cr">Copyright © 2009-2014 <a href="../default.htm" target="_blank">Trianon Studio</a></nobr></td>
+</tr></table>
+          </td></tr></table>
+  </body></html>

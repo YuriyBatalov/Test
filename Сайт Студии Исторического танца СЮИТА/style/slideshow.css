@@ -1,0 +1,11 @@
+/* Slideshow on page http://www.nes.ru/en/programs/ba/for-universities-and-schools/international */
+
+.goods-slideshow{ width:192px; margin:10px auto; text-align:center; }
+.goods-slideshow img{width:190px; border:1px solid #FDC270; height:225px; }
+/* .goods-slideshow a{display:block} */
+.slideshow {	 position:relative; height:227px; width:192px; overflow:hidden; margin: 0; padding: 0; }
+/*ie7 hack*/
+*:first-child+html .slideshow li { margin-left:-80px; }
+.slideshow li { position:absolute; list-style-type: none; height: 225px; width:190px; }
+ .slideshow li.active { z-index:10; background: #FFFFFF; }
+ .slideshow li.last-active { z-index:9; }
